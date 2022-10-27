@@ -9,7 +9,7 @@ const Navbar: FunctionComponent<NavbarProps> = () => {
       <nav className="navbar navbar-expand-lg navbar-dark bg-dark">
         <div className="container-fluid">
           <NavLink className="navbar-brand" to="/">
-          <i className="fa-solid fa-address-card"></i> Biz
+           <i className="fa-solid fa-address-card"></i> Biz
           </NavLink>
           <button
             className="navbar-toggler"
