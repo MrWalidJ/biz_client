@@ -1,4 +1,4 @@
-import { FunctionComponent } from "react"; // import
+import { FunctionComponent } from "react"; 
 import { NavLink } from "react-router-dom";
 
 interface NavbarProps {}
